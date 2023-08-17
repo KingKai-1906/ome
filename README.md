@@ -48,7 +48,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing OME shouldn't take much time, but of course depends on your internet connection and computer. To install OME, complete the following steps:
 
-1. Open Wabbajack and click on browse modlists. Check the tickbox that says `show unofficial`.
+1. Open Wabbajack and click on browse modlists. Check the tickbox that says `Show Unofficial Lists`.
 2. Select **Oblivion** at the game dropdown menu.
    ![image](https://github.com/KingKai-1906/ome/assets/103863195/114e4e97-0afc-4335-8eb1-bca8b165c594)
 3. Press the download button on OME and wait for it to download.
