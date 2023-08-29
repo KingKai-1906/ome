@@ -76,6 +76,18 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
 
+### Tools
+
+OME comes with 4 tools bundled at the `tools` folder:
+
+#### Runnable via MO2:
+- xEdit 4.0.4
+- WryeBash 311  
+
+#### Runnable OUTSIDE MO2
+- Oblivion Ram Optimizer (a.k.a.: 4GB Patch)
+- BSArchPro
+
 ***
 
 ## Updating the modlist
