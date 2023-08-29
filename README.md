@@ -14,13 +14,19 @@
 
 **Oblivion Modding Essentials** (OME) is a streamlined and compatible approach, intended to be the base of your own Oblivion modlist!
 
-Shipped with the essential mods and tools required for building an up-to-date modding list!
+Shipped with the essential mods, requirements and tools needed for building an up-to-date modding list!
+
+It also doubles as a fixed vanilla game, if you want to play it as is!
 
 ## System Requirements
 
 A [Flying Toaster](https://www.youtube.com/watch?v=mjlusi_h_XA)
 
 Jokes aside, the requirements are the same of the base game, so unless your rig is ancient old, you should be fine!
+
+## Modlist Contents
+
+You can check all mods and plugins at [Load Order Library](https://loadorderlibrary.com/lists/oblivion-modding-essentials-ome)
 
 ## Installation
 
@@ -65,7 +71,10 @@ Downloading and installing OME shouldn't take much time, but of course depends o
 
 ### DXVK and FPS Cap info
 
-- OME uses [DXVK](https://github.com/doitsujin/dxvk/), which changes the graphics renderer from DirectX 9 to Vulkan. You can disable the DXVK (by unticking the mod on MO2) if you want to play using DX9.
+- OME uses [DXVK](https://github.com/doitsujin/dxvk/), which changes the graphics renderer from DirectX 9 to Vulkan.
+
+  You can disable DXVK by unticking the mod on MO2 if you want to play using DX9.
+  
 - Oblivion doesn't like high FPS, so to avoid issues, cap your FPS to 72 at most!
 
 If you have issues/questions and/or just wanna know more about DXVK and FPS capping on Oblivion, check [this guide](https://performance.moddinglinked.com/oblivion.html#RecommendedLimiters).
@@ -82,7 +91,7 @@ OME comes with 4 tools bundled at the `tools` folder:
 
 #### Runnable via MO2:
 - xEdit 4.0.4
-- WryeBash 311  
+- WryeBash 311
 
 #### Runnable OUTSIDE MO2
 - Oblivion Ram Optimizer (a.k.a.: 4GB Patch)
@@ -94,7 +103,9 @@ OME comes with 4 tools bundled at the `tools` folder:
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button.
+
+**Note**: Any mods you have added will be deleted when updating.
 
 ***
 
